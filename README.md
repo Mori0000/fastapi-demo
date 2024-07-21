@@ -4,7 +4,7 @@
 
 これをmain.pyがあるところで実行
 ```
-$ uvicorn main:app --reload
+uvicorn main:app --reload
 ```
 これを動かしたまま、以下を実行
 ```
